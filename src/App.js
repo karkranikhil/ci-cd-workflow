@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Devops for frontend Developers !!</p>
-        <p>This build is from automation!!</p>
+        <p>This build is from complete CI/CD flow!!</p>
       </header>
     </div>
   );
